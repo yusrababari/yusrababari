@@ -34,6 +34,24 @@ into working code.
 </tr>
 </table>
 
+## Projects
+
+<table align="center" width="100%">
+<tr>
+<td style="background:#2b0a1f; border-radius:12px;" width="60%">
+
+Current Projects I'm Working On:
+
+-🎓 Twitter Sentiment Analyser
+<a href="https://www.linkedin.com/in/yusrababari/">
+ Live Link: https://twitter-sentiment-analysis-sepia.vercel.app/
+
+
+
+</td>
+</tr>
+</table>
+
 ## 🌸 Technologies
 
 <p align="center">
