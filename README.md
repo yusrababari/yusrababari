@@ -18,7 +18,7 @@
 <tr>
 <td style="background:#2b0a1f; border-radius:12px;" width="60%">
 
-Hey there! I'm **Yusra Babari**, a Computer Science student based in the UK.
+Hey there! I'm **Yusra**, a Computer Science student based in the UK.
 I love exploring **AI, machine learning, and web development**, and I'm currently
 sharpening my skills in Python, SQL, and building small projects that turn ideas
 into working code.
