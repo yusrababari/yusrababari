@@ -1,8 +1,7 @@
 <div align="right">
 
 <!-- Banner -->
-Hi there, I'm Yusra
-
+## Yusra 
 <br/><br/>
 
 <!-- Nav pills -->
