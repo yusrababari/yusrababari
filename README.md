@@ -42,10 +42,7 @@ into working code.
 
 Current Projects I'm Working On:
 
--🎓 Twitter Sentiment Analyser
-
- Live Link:
-  https://twitter-sentiment-analysis-sepia.vercel.app/
+ Twitter Sentiment Analyser: https://twitter-sentiment-analysis-sepia.vercel.app/
 
 
 
