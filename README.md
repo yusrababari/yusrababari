@@ -7,20 +7,20 @@
 
 <!-- Nav pills -->
 <div align="right">
-<a href="#"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-1a0b2e?style=for-the-badge&logo=x&logoColor=c084fc&labelColor=1a0b2e" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=c084fc&labelColor=1a0b2e" /></a>
-<a href="https://github.com/yusrababari"><img src="https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=1a0b2e" /></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-1a0b2e?style=for-the-badge&logo=youtube&logoColor=c084fc&labelColor=1a0b2e" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-1a0b2e?style=for-the-badge&logo=googlechrome&logoColor=c084fc&labelColor=1a0b2e" /></a>
+<a href="#"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-2b0a1f?style=for-the-badge&logo=x&logoColor=f472b6&labelColor=2b0a1f" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-2b0a1f?style=for-the-badge&logo=linkedin&logoColor=f472b6&labelColor=2b0a1f" /></a>
+<a href="https://github.com/yusrababari"><img src="https://img.shields.io/badge/GitHub-2b0a1f?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=2b0a1f" /></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube-2b0a1f?style=for-the-badge&logo=youtube&logoColor=f472b6&labelColor=2b0a1f" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-2b0a1f?style=for-the-badge&logo=googlechrome&logoColor=f472b6&labelColor=2b0a1f" /></a>
 </div>
 
 </div>
 
-## 💜 About Me
+## 💗 About Me
 
 <table align="center" width="100%">
 <tr>
-<td style="background:#1a0b2e; border-radius:12px;" width="60%">
+<td style="background:#2b0a1f; border-radius:12px;" width="60%">
 
 Hey there! I'm **Yusra Babari**, a Computer Science student based in the UK 🇬🇧.
 I love exploring **AI, machine learning, and web development**, and I'm currently
@@ -37,7 +37,7 @@ into working code.
 </tr>
 </table>
 
-## 🧩 Technologies
+## 🌸 Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,sql,git,github,vscode&theme=dark&perline=6" />
@@ -46,18 +46,18 @@ into working code.
 ## 📊 Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yusrababari&show_icons=true&theme=radical&hide_border=true&title_color=a855f7&icon_color=c084fc&text_color=e9d5ff&bg_color=1a0b2e" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusrababari&layout=compact&theme=radical&hide_border=true&title_color=a855f7&text_color=e9d5ff&bg_color=1a0b2e" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yusrababari&show_icons=true&theme=radical&hide_border=true&title_color=ec4899&icon_color=f472b6&text_color=fce7f3&bg_color=2b0a1f" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusrababari&layout=compact&theme=radical&hide_border=true&title_color=ec4899&text_color=fce7f3&bg_color=2b0a1f" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusrababari&theme=radical&hide_border=true&background=1a0b2e&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusrababari&theme=radical&hide_border=true&background=2b0a1f&ring=ec4899&fire=f472b6&currStreakLabel=fce7f3" />
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusrababari&theme=react-dark&bg_color=1a0b2e&color=c084fc&line=a855f7&point=e9d5ff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusrababari&theme=react-dark&bg_color=2b0a1f&color=f472b6&line=ec4899&point=fce7f3" />
 </p>
 
 ## 📌 Pinned Ideas / Currently Learning
@@ -70,6 +70,6 @@ into working code.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b21a8,100:2a0a4a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:831843&height=100&section=footer" width="100%"/>
 
 </div>
