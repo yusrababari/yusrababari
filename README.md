@@ -39,7 +39,7 @@ into working code.
 <tr>
 <td style="background:#2b0a1f; border-radius:12px;" width="60%">
 
- -Twitter Sentiment Analyser: Uses an API integration to analyze tweet text and classify sentiment as Positive, Negative, or Neutral.
+Twitter Sentiment Analysis: Uses an API integration to analyze tweet text and classify sentiment as Positive, Negative, or Neutral.
  https://twitter-sentiment-analysis-sepia.vercel.app/
 
 </td>
