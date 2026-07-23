@@ -43,8 +43,9 @@ into working code.
 Current Projects I'm Working On:
 
 -🎓 Twitter Sentiment Analyser
-<a href="https://www.linkedin.com/in/yusrababari/">
- Live Link: https://twitter-sentiment-analysis-sepia.vercel.app/
+
+ Live Link:
+  https://twitter-sentiment-analysis-sepia.vercel.app/
 
 
 
