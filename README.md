@@ -1,7 +1,7 @@
-<div align="right">
+<div align="center">
 
 <!-- Banner -->
-## Yusra 
+## Hi, I'm Yusra 
 
 
 <!-- Nav pills -->
@@ -12,7 +12,7 @@
 
 </div>
 
-## 💗 About Me
+##  About Me
 
 <table align="center" width="100%">
 <tr>
@@ -39,11 +39,7 @@ into working code.
 <tr>
 <td style="background:#2b0a1f; border-radius:12px;" width="60%">
 
-Current Projects I'm Working On:
-
- Twitter Sentiment Analyser: https://twitter-sentiment-analysis-sepia.vercel.app/
-
-
+ -Twitter Sentiment Analyser: https://twitter-sentiment-analysis-sepia.vercel.app/
 
 </td>
 </tr>
