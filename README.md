@@ -69,7 +69,7 @@ Twitter Sentiment Analysis: Uses an API integration to analyze tweet text and cl
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusrababari&theme=react-dark&bg_color=2b0a1f&color=f472b6&line=ec4899&point=fce7f3" />
 </p>
 
-## 📌 Pinned Ideas / Currently Learning
+## Currently Learning
 
 | Area | Stack |
 |---|---|
