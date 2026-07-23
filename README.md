@@ -7,11 +7,8 @@
 
 <!-- Nav pills -->
 <div align="right">
-<a href="#"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-2b0a1f?style=for-the-badge&logo=x&logoColor=f472b6&labelColor=2b0a1f" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-2b0a1f?style=for-the-badge&logo=linkedin&logoColor=f472b6&labelColor=2b0a1f" /></a>
-<a href="https://github.com/yusrababari"><img src="https://img.shields.io/badge/GitHub-2b0a1f?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=2b0a1f" /></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-2b0a1f?style=for-the-badge&logo=youtube&logoColor=f472b6&labelColor=2b0a1f" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-2b0a1f?style=for-the-badge&logo=googlechrome&logoColor=f472b6&labelColor=2b0a1f" /></a>
+<a href="https://www.linkedin.com/in/yusrababari/"><img src="https://img.shields.io/badge/LinkedIn-2b0a1f?style=for-the-badge&logo=linkedin&logoColor=f472b6&labelColor=2b0a1f" /></a><!--Linkedin-->
+
 </div>
 
 </div>
