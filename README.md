@@ -37,7 +37,7 @@ into working code.
 ## 🌸 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,linux,numpy,pandas,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,linux,vscode&theme=dark&perline=6" />
 </p>
 
 ## 📊 Statistics
