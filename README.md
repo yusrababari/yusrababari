@@ -1,7 +1,7 @@
 <div align="right">
 
 <!-- Banner -->
-<img src="./assets/banner.png" width="100%" alt="Yusra Babari" />
+Hi there, I'm Yusra
 
 <br/><br/>
 
