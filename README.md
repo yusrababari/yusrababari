@@ -24,9 +24,9 @@ sharpening my skills in Python, SQL, and building small projects that turn ideas
 into working code.
 
 - 🎓 Studying Computer Science
-- 🧠 Focus: AI • Web Development • Problem Solving
-- 📚 Currently learning: Python • Machine Learning • SQL
-- 🛠️ Status: Building powerful projects every day
+- 🧠 **Focus:** AI • Web Development • Problem Solving
+- 📚 **Currently learning:** Docker • TypeScript • PostgreSQL
+
 
 
 </td>
@@ -39,7 +39,7 @@ into working code.
 <tr>
 <td style="background:#2b0a1f; border-radius:12px;" width="60%">
 
-Twitter Sentiment Analysis: Uses an API integration to analyze tweet text and classify sentiment as Positive, Negative, or Neutral.
+**Twitter Sentiment Analysis:** Uses an API integration to analyze tweet text and classify sentiment as Positive, Negative, or Neutral.
  https://twitter-sentiment-analysis-sepia.vercel.app/
 
 </td>
@@ -52,11 +52,11 @@ Twitter Sentiment Analysis: Uses an API integration to analyze tweet text and cl
 <tr>
 <td style="background:#2b0a1f; border-radius:12px;" width="60%">
 
-- 🛠️ Languages: Python, JavaScript, HTML/CSS, SQL, C++
+- 🛠️ **Languages:** Python, JavaScript, HTML/CSS, SQL, C++
 
-- 🧠 Data & Machine Learning: NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, SciPy, scikit-learn, NLP, LangChain
+- 🧠 **Data & Machine Learning:** NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, SciPy, scikit-learn, NLP, LangChain
 
-- 📚 Deployment & Tools: Flask, Streamlit, Vercel, Git & GitHub, Jupyter Notebooks, Vite
+- 📚 **Deployment & Tools:** Flask, Streamlit, Vercel, Git & GitHub, Jupyter Notebooks, Vite
 
 </td>
 </tr>
@@ -84,13 +84,11 @@ Twitter Sentiment Analysis: Uses an API integration to analyze tweet text and cl
 </p>
 
 ## Currently Learning
-
 | Area | Stack |
 |---|---|
-| 🤖 AI / ML | NumPy • Pandas • Matplotlib • Seaborn • SciPy • scikit-learn • TensorFlow • NLP • LangChain |
-| ⚙️ Core | Python • JavaScript • HTML/CSS • SQL • C++ |
-| 🔧 Workflow | Flask • Streamlit • Vercel • Git & GitHub • Jupyter Notebooks • Vite |
-
+| 🤖 **AI / ML** | PyTorch • Hugging Face Transformers • FAISS / Chroma • MLflow |
+| ⚙️ **Core** | TypeScript • PostgreSQL |
+| 🔧 **Workflow** | Docker • FastAPI • AWS/GCP basics |
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:831843&height=100&section=footer" width="100%"/>
