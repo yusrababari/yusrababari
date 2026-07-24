@@ -69,11 +69,6 @@ into working code.
 ## 📊 Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yusrababari&show_icons=true&theme=radical&hide_border=true&title_color=ec4899&icon_color=f472b6&text_color=fce7f3&bg_color=2b0a1f" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusrababari&layout=compact&theme=radical&hide_border=true&title_color=ec4899&text_color=fce7f3&bg_color=2b0a1f" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusrababari&theme=radical&hide_border=true&background=2b0a1f&ring=ec4899&fire=f472b6&currStreakLabel=fce7f3" />
 </p>
 
