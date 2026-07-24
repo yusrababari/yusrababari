@@ -52,7 +52,9 @@ Twitter Sentiment Analysis: Uses an API integration to analyze tweet text and cl
 <tr>
 <td style="background:#2b0a1f; border-radius:12px;" width="60%">
 - Languages: Python, JavaScript, HTML/CSS, SQL, C++
+
 - 🧠 Data & Machine Learning: NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, SciPy, scikit-learn, NLP, LangChain
+
 - 📚 Deployment & Tools: Flask, Streamlit, Vercel, Git & GitHub, Jupyter Notebooks, Vite
 
 </td>
@@ -84,9 +86,9 @@ Twitter Sentiment Analysis: Uses an API integration to analyze tweet text and cl
 
 | Area | Stack |
 |---|---|
-| 🤖 AI / ML | NumPy • Pandas • Scikit-learn • Jupyter |
-| ⚙️ Core | Python • SQL |
-| 🔧 Workflow | VS Code • Git & GitHub |
+| 🤖 AI / ML | NumPy • Pandas • Matplotlib • Seaborn • SciPy • scikit-learn • TensorFlow • NLP • LangChain |
+| ⚙️ Core | Python • JavaScript • HTML/CSS • SQL • C++ |
+| 🔧 Workflow | Flask • Streamlit • Vercel • Git & GitHub • Jupyter Notebooks • Vite |
 
 <div align="center">
 
