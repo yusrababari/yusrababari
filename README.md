@@ -1,6 +1,6 @@
 <div align="center">
 
-# <h1 align="center"><font size="7" color="#f472b6">✨ Hi, I'm Yusra ✨</font></h1>
+# <h1 align="center"><font size="7" color="#f472b6">💌 Hi, I'm Yusra 💌</font></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusrababari/">
