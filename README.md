@@ -39,8 +39,8 @@ into working code.
 <tr>
 <td style="background:#2b0a1f; border-radius:12px;" width="60%">
 
-**Twitter Sentiment Analysis:** Analyses tweet text and classifies sentiment as Positive, Negative, or Neutral.
- https://twitter-sentiment-analysis-blond.vercel.app/
+**Twitter Sentiment Analysis:** Signal is an stylish real-time Twitter sentiment analysis engine. It evaluates raw tweet text, detects emotional tone, and maps sentiment polarity—Positive, Negative, or Neutral—using intuitive visual meters and real-time breakdowns.
+**Live Link:**  https://twitter-sentiment-analysis-blond.vercel.app/
 
 </td>
 </tr>
