@@ -15,12 +15,11 @@
 <td style="background:#2b0a1f; border-radius:12px;" width="100%">
 
 Hey there! I'm **Yusra**, a Computer Science student based in the UK.
-I love exploring **AI, machine learning, and web development**, and I'm currently
-sharpening my skills in Python, SQL, and building small projects that turn ideas
-into working code.
+I love exploring **AI, machine learning, and web development**, and I'm currently starting to build
+intelligent, context-aware web applications and AI agents using modern LLM architectures, RAG pipelines, and full-stack web technologies.
 
 - 🎓 Studying Computer Science
-- 🧠 **Focus:** AI • Web Development • Problem Solving
+- 🧠 ### 🧠 Focus: AI • LLM Integration • RAG
 - 📚 **Currently learning:** Docker • TypeScript • PostgreSQL
 
 </td>
