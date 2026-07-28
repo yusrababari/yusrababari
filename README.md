@@ -1,14 +1,10 @@
 <div align="center">
 
-<!-- Banner -->
 ## Hi, I'm Yusra 
 
 
-<!-- Nav pills -->
 <div align="right">
-<a href="https://www.linkedin.com/in/yusrababari/"><img src="https://img.shields.io/badge/LinkedIn-2b0a1f?style=for-the-badge&logo=linkedin&logoColor=f472b6&labelColor=2b0a1f" /></a><!--Linkedin-->
-
-</div>
+<a href="https://www.linkedin.com/in/yusrababari/"><img src="https://img.shields.io/badge/LinkedIn-2b0a1f?style=for-the-badge&logo=linkedin&logoColor=f472b6&labelColor=2b0a1f" /></a></div>
 
 </div>
 
@@ -16,7 +12,7 @@
 
 <table align="center" width="100%">
 <tr>
-<td style="background:#2b0a1f; border-radius:12px;" width="60%">
+<td style="background:#2b0a1f; border-radius:12px;" width="100%">
 
 Hey there! I'm **Yusra**, a Computer Science student based in the UK.
 I love exploring **AI, machine learning, and web development**, and I'm currently
@@ -27,21 +23,21 @@ into working code.
 - 🧠 **Focus:** AI • Web Development • Problem Solving
 - 📚 **Currently learning:** Docker • TypeScript • PostgreSQL
 
-
-
 </td>
 </tr>
 </table>
 
-## Projects
+## 🚀 Projects
 
 <table align="center" width="100%">
 <tr>
-<td style="background:#2b0a1f; border-radius:12px;" width="60%">
+<td style="background:#2b0a1f; border-radius:12px; padding: 16px;" width="100%">
 
-**Twitter Sentiment Analysis:** Signal is an stylish real-time Twitter sentiment analysis engine. It evaluates raw tweet text, detects emotional tone, and maps sentiment polarity—Positive, Negative, or Neutral—using intuitive visual meters and real-time breakdowns.
-<tr>**Live Link:**  https://twitter-sentiment-analysis-blond.vercel.app/
-</tr>
+**Twitter Sentiment Analysis:** Signal is a stylish real-time Twitter sentiment analysis engine. It evaluates raw tweet text, detects emotional tone, and classifies sentiments —Positive, Negative, or Neutral—using intuitive visual meters and real-time breakdowns.
+
+<br />
+
+🔗 **Live Link:** <a href="https://twitter-sentiment-analysis-blond.vercel.app/" target="_blank">twitter-sentiment-analysis-blond.vercel.app</a>
 
 </td>
 </tr>
@@ -51,7 +47,7 @@ into working code.
 
 <table align="center" width="100%">
 <tr>
-<td style="background:#2b0a1f; border-radius:12px;" width="60%">
+<td style="background:#2b0a1f; border-radius:12px;" width="100%">
 
 - 🛠️ **Languages:** Python, JavaScript, HTML/CSS, SQL, C++
 
@@ -85,6 +81,7 @@ into working code.
 | 🤖 **AI / ML** | PyTorch • Hugging Face Transformers • FAISS / Chroma • MLflow |
 | ⚙️ **Core** | TypeScript • PostgreSQL |
 | 🔧 **Workflow** | Docker • FastAPI • AWS/GCP basics |
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:831843&height=100&section=footer" width="100%"/>
