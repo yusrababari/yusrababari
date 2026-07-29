@@ -1,10 +1,8 @@
-<h1 align="center">
-  💌 Hi, I'm <span style="color: #f472b6;">Yusra</span> 
+<div align="center">
+  <h1>💌 Hi, I'm <span style="color: #f472b6;">Yusra</span></h1>
   <a href="https://www.linkedin.com/in/yusrababari/">
-    <img src="https://img.shields.io/badge/LinkedIn-f472b6?style=flat-square&logo=linkedin&logoColor=white" valign="middle">
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-</h1>
-
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561b974f-3213-4012-833b-b08d48a52880.gif" width="25"> <font color="#f472b6">🔮 About Me</font>
