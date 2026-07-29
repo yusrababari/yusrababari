@@ -54,7 +54,7 @@ I love exploring **AI, machine learning, and web development**, and I'm currentl
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561b974f-3213-4012-833b-b08d48a52880.gif" width="25"> <font color="#f472b6">🌸 Technologies & Stack</font>
 
-<table align="center" width="100%">
+<table align="left" width="100%">
 <tr>
 <td style="background:#2b0a1f; border-radius:12px; border: 1px solid #f472b6; padding: 18px;" width="100%">
 
