@@ -1,9 +1,11 @@
 <div align="center">
+  <h1>💌 Hi, I'm <font color="#f472b6">Yusra</font></h1>
+  <p><i>Aspiring Tech Enthusiast & Creator</i></p>
 
-# <h1 align="center"><font size="7" color="#f472b6">💌 Hi, I'm Yusra 💌</font></h1>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/yusrababari/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
     <img src="https://img.shields.io/badge/LinkedIn-2b0a1f?style=for-the-badge&logo=linkedin&logoColor=f472b6&labelColor=2b0a1f" />
   </a>
 </p>
