@@ -47,7 +47,7 @@ I love exploring **AI, machine learning, and web development**, and I'm currentl
 <br />
 🔗 **Live Link:** <a href="https://cine-er6bq9f9k-yusra8.vercel.app/" target="_blank"><font color="#f472b6"><u>cine-er6bq9f9k-yusra8.vercel.app</u></font></a>
 
-### ❤️ Heart Disease ML Classifier
+### 📚 Heart Disease ML Classifier
 A full-stack machine learning application that predicts heart disease risk from clinical data. Includes exploratory data analysis and feature engineering on the UCI dataset, comparison of multiple classification models, and a FastAPI backend serving real-time predictions to a React frontend.
 
 ### 📡 Morse Code Hangman
