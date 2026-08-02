@@ -28,8 +28,10 @@ I love exploring **AI, machine learning, and web development**, and I'm currentl
 </table>
 
 <br/>
+<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561b974f-3213-4012-833b-b08d48a52880.gif" width="25"> <font color="#f472b6">💖 Featured Project</font>
+<br/>
 
 <table align="center" width="100%">
 <tr>
