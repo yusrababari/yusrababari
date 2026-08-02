@@ -39,18 +39,19 @@ I love exploring **AI, machine learning, and web development**, and I'm currentl
 
 ### 📊 Twitter Sentiment Analysis
 **Signal** is a stylish real-time Twitter sentiment analysis engine. It evaluates raw tweet text, detects emotional tone, and classifies sentiments — **Positive**, **Negative**, or **Neutral** — using intuitive visual meters and real-time breakdowns.
-
 <br />
-
 🔗 **Live Link:** <a href="https://twitter-sentiment-analysis-blond.vercel.app/" target="_blank"><font color="#f472b6"><u>twitter-sentiment-analysis-blond.vercel.app</u></font></a>
 
-</font>
+### 🎬 CineRAG
+**CineRAG** is a Retrieval-Augmented Generation (RAG) chatbot that answers movie-related questions using context-aware retrieval and LLM prompting. It features a document ingestion and text-chunking pipeline to improve accuracy and reduce hallucinations, with a responsive React + Vite frontend.
+<br />
+🔗 **Live Link:** <a href="https://cine-er6bq9f9k-yusra8.vercel.app/" target="_blank"><font color="#f472b6"><u>cine-er6bq9f9k-yusra8.vercel.app</u></font></a>
 
-</td>
-</tr>
-</table>
+### ❤️ Heart Disease ML Classifier
+A full-stack machine learning application that predicts heart disease risk from clinical data. Includes exploratory data analysis and feature engineering on the UCI dataset, comparison of multiple classification models, and a FastAPI backend serving real-time predictions to a React frontend.
 
-<br/>
+### 📡 Morse Code Hangman
+A Hangman-style game built for Raspberry Pi that challenges players to decode Morse code signals, built collaboratively in Python as a team project with a friendly, interactive frontend.
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561b974f-3213-4012-833b-b08d48a52880.gif" width="25"> <font color="#f472b6">🌸 Technologies & Stack</font>
 
