@@ -19,7 +19,7 @@ I love exploring **AI, machine learning, and web development**, and I'm currentl
 
 * 🎓 **Education:** Studying Computer Science (Artificial Intelligence)
 * 🧠 **Focus:** AI • LLM Integration • RAG  
-* 📚 **Currently learning:** Docker • TypeScript • PostgreSQL  
+ 
 
 </font>
 
