@@ -64,8 +64,8 @@ A Hangman-style game built for Raspberry Pi that challenges players to decode Mo
 <font color="#fce7f3">
 
 * 🛠️ **Languages:** Python, JavaScript, HTML/CSS, SQL, C++
-* 🧠 **Data & Machine Learning:** NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, SciPy, scikit-learn, NLP, LangChain
-* 📚 **Deployment & Tools:** Flask, Streamlit, Vercel, Git & GitHub, Jupyter Notebooks, Vite
+* 🧠 **Data & Machine Learning:** NumPy, Pandas, Matplotlib, Seaborn, SciPy, scikit-learn, NLP
+* 📚 **Deployment & Tools:** React,FastAPI. Streamlit, Vercel, Git & GitHub, Jupyter Notebooks, Vite
 
 </font>
 
@@ -81,13 +81,13 @@ A Hangman-style game built for Raspberry Pi that challenges players to decode Mo
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284100-561b974f-3213-4012-833b-b08d48a52880.gif" width="25"> <font color="#f472b6">🎀 Roadmap & Currently Learning</font>
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561b974f-3213-4012-833b-b08d48a52880.gif" width="25"> <font color="#f472b6"> Currently Learning</font>
 
 | Area | Stack |
 | :--- | :--- |
-| 🤖 **AI / ML** | PyTorch • Hugging Face Transformers • FAISS / Chroma • MLflow |
+| 🤖 **AI / ML** | Vector search (pgvector)|
 | ⚙️ **Core** | TypeScript • PostgreSQL |
-| 🔧 **Workflow** | Docker • FastAPI • AWS/GCP basics |
+| 🔧 **Workflow** | Docker  |
 
 <br/>
 
