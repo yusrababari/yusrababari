@@ -1,7 +1,7 @@
 <div align="center">
   <h1>💌 Hi, I'm <span style="color: #f472b6;">Yusra</span></h1>
   <a href="https://www.linkedin.com/in/yusrababari/">
-[    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=square&logo=linkedin&logoColor=white">
+   <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=square&logo=linkedin&logoColor=white">
   </a>
 </div>
 
