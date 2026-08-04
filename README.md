@@ -52,7 +52,7 @@ I love exploring **AI, machine learning, and web development**, and I'm currentl
 ### 📚 Heart Disease ML Classifier
 A full-stack machine learning application that predicts heart disease risk from clinical data. Includes exploratory data analysis and feature engineering on the UCI dataset, comparison of multiple classification models, and a FastAPI backend serving real-time predictions to a React frontend.
 <br />
-🔗 **Live Link:** <a href="https://heart-disease-ml-classifier.vercel.app/" target="_blank"><font color="#f472b6"><u>https://heart-disease-ml-classifier.vercel.app/*</u></font></a>
+🔗 **Live Link:** <a href="https://heart-disease-ml-classifier.vercel.app/" target="_blank"><font color="#f472b6"><u>https://heart-disease-ml-classifier.vercel.app/</u></font></a>
 
 ### 📡 Morse Code Hangman
 A Hangman-style game built for Raspberry Pi that challenges players to decode Morse code signals, built collaboratively in Python as a team project with a friendly, interactive frontend.
