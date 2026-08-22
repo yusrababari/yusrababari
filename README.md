@@ -19,7 +19,7 @@ I love exploring **AI, machine learning, and web development**, and I'm currentl
 
 * 🎓 **Education:** Studying Computer Science (Artificial Intelligence)
 * 🧠 **Focus:** AI • LLM Integration • RAG
-* 🫟**Next Steps** Focusing on larger projects • Building shippable, purposeful products • GraphRAG
+* 🫟**Next Steps:**  Focusing on larger projects • Building shippable, purposeful products • GraphRAG
  
 
 </font>
