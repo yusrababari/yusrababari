@@ -18,7 +18,8 @@ Hey there! 👋 I'm **Yusra**, a Computer Science student based in the UK.
 I love exploring **AI, machine learning, and web development**, and I'm currently starting to build intelligent, context-aware web applications and AI agents using modern LLM architectures, RAG pipelines, and full-stack web technologies.
 
 * 🎓 **Education:** Studying Computer Science (Artificial Intelligence)
-* 🧠 **Focus:** AI • LLM Integration • RAG  
+* 🧠 **Focus:** AI • LLM Integration • RAG
+* 🫟**Next Steps** Focusing on larger projects • Building shippable, purposeful products • GraphRAG
  
 
 </font>
