@@ -53,7 +53,7 @@ I love exploring **AI, machine learning, and web development**, and I'm currentl
 ### LectureLens
 LectureLens turns lecture PDFs into easy-to-read summaries, glossaries, and practice questions, using AI that only pulls from the actual document — so nothing is made up. It's built to be accessible for everyone, with keyboard navigation, screen reader support, and adjustable reading levels.
 <br />
-🔗 **Live Link:** <a href="https://heart-disease-ml-classifier.vercel.app/" target="_blank"><font color="#f472b6"><u>https://heart-disease-ml-classifier.vercel.app/</u></font></a>
+🔗 **Live Link:** <a href="https://lecturelens-seven.vercel.app/" target="_blank"><font color="#f472b6"><u>https://lecturelens-seven.vercel.app/</u></font></a>
 ### 📚 Heart Disease ML Classifier
 A full-stack machine learning application that predicts heart disease risk from clinical data. Includes exploratory data analysis and feature engineering on the UCI dataset, comparison of multiple classification models, and a FastAPI backend serving real-time predictions to a React frontend.
 <br />
