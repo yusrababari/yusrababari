@@ -98,7 +98,7 @@ A Hangman-style game built for Raspberry Pi that challenges players to decode Mo
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284100-561b974f-3213-4012-833b-b08d48a52880.gif" width="25"> <font color="#f472b6">🎀 Statistics & Activity</font>
+ <font color="#f472b6">🎀 Statistics & Activity</font>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusrababari&theme=radical&hide_border=true&background=2b0a1f&ring=ec4899&fire=f472b6&currStreakLabel=fce7f3" />
