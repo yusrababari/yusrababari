@@ -70,7 +70,7 @@ A Hangman-style game built for Raspberry Pi that challenges players to decode Mo
 
 <font color="#fce7f3">
 
-* 🛠️ **Languages:** Python, JavaScript, HTML/CSS, SQL, C++
+* 🛠️ **Languages:** Python, JavaScript, HTML/CSS, SQL
 * 🧠 **Data & Machine Learning:** NumPy, Pandas, Matplotlib, Seaborn, SciPy, scikit-learn, NLP
 * 📚 **Deployment & Tools:** React,FastAPI. Streamlit, Vercel, Git & GitHub, Jupyter Notebooks, Vite
 
@@ -83,7 +83,7 @@ A Hangman-style game built for Raspberry Pi that challenges players to decode Mo
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,linux,vscode&theme=dark&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,git,github,linux,vscode&theme=dark&perline=13" />
 </p>
 
 <br/>
