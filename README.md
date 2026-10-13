@@ -83,7 +83,7 @@ A Hangman-style game built for Raspberry Pi that challenges players to decode Mo
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,linux,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,linux,vscode&theme=dark&perline=13" />
 </p>
 
 <br/>
